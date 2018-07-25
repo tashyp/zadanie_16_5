@@ -1,0 +1,15 @@
+
+body {
+	background-color: #FFF8DC;
+}
+
+.title h1 {
+    text-align: center;
+    font-weight: bold;
+    text-transform: none;
+}
+.title p {
+	font-size: 30px;
+	color: #00008B;
+	text-align: center;
+}
